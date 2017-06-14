@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Wumbo.unity
+- path: Assets/Flarm.unity
   isLoaded: 1
   isActive: 1
