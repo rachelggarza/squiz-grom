@@ -600,7 +600,7 @@ PlayerSettings:
     Build: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: 915d7245-9c0e-46ab-9b4e-bcaa11f2d5e9
   projectName: Squiz Grom
   organizationId: razorgrazer
