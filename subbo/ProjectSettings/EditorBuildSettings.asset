@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Blorps.unity
+    path: Assets/empty/Blorps.unity
     guid: 0de1b945a9c0d48abb7ffd4ea9ed5158
   - enabled: 0
     path: 
     guid: e37814cd223b24ecba02fe1be25c7e45
   - enabled: 1
-    path: Assets/Flarm.unity
+    path: Assets/empty/Flarm.unity
     guid: 3074f794de609467380a3d763e900ec6
